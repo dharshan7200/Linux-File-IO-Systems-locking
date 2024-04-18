@@ -89,7 +89,7 @@ return 0;
 ![image](https://github.com/samisrael/Linux-File-IO-Systems-locking/assets/118707037/9677c09d-1110-4a49-9ced-bc4238661f29)
 
 ## C program that illustrates files locking
-![image](https://github.com/samisrael/Linux-File-IO-Systems-locking/assets/118707037/2de40eb8-7564-4cb7-a3d3-af3e5d1955d3)
+![323158503-2de40eb8-7564-4cb7-a3d3-af3e5d1955d3](https://github.com/dharshan7200/Linux-File-IO-Systems-locking/assets/138850116/492447d9-9326-4be7-a4d2-4166740cc49c)
 
 
 
